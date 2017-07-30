@@ -1,5 +1,12 @@
 # Slackir
 
+This is a workshop project with Elixir Girls in Sydney 
+
+  * http://elixirgirls.com/guides.html
+  * https://elixir-lang.org/getting-started/introduction.html
+  
+
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
